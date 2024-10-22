@@ -1,4 +1,4 @@
-# ShopSmart-E-commerce-Comparator
+# ShopSmart: E-commerce-Comparator
 **ShopSmart**  is a Python-based web scraping project that automates the comparison of products across two major e-commerce platforms, **Amazon and Flipkart**. It scrapes product details such as **price, ratings, and review counts**, stores the data in CSV format, and offers various analysis and visualization options to help users make data-driven decisions while shopping online.
 
 ## Features
